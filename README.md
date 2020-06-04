@@ -8,6 +8,5 @@ Skript plugin that adds more food to your Spigot server.
 - [SkBee](https://www.spigotmc.org/resources/skbee-skript-addon.75839/)
 
 ## TODO
-- Skript's code
 - Food textures
 - Project's logo
