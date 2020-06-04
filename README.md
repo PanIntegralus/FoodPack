@@ -5,7 +5,7 @@ Skript plugin that adds more food to your Spigot server.
 - [Spigot 1.8+](https://www.spigotmc.org)
 - [Skript](https://docs.skunity.com/downloads)
 - [SkQuery](https://www.spigotmc.org/resources/skquery-1-9-1-15.36631/)
-- [Sk-NBeeT](https://www.spigotmc.org/resources/sk-nbeet-skript-addon-deprecated.62931/)
+- [SkBee](https://www.spigotmc.org/resources/skbee-skript-addon.75839/)
 
 ## TODO
 - Skript's code
