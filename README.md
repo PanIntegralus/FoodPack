@@ -13,7 +13,3 @@ A resource pack that adds more food to Minecraft.
 | 1.14 | ❌ |
 | 1.15 | ✔ |
 | 1.16 (snapshots) | ✔ |
-
-## TODO
-- Food textures
-- Project's logo
