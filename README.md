@@ -1,5 +1,5 @@
-# FoodSk 🍕 ![GitHub last commit](https://img.shields.io/github/last-commit/PanIntegralus/FoodSk) ![GitHub repo size](https://img.shields.io/github/repo-size/PanIntegralus/FoodSk)
-Skript plugin that adds more food to your Spigot server.
+# FoodPack 🍕 ![GitHub last commit](https://img.shields.io/github/last-commit/PanIntegralus/FoodSk) ![GitHub repo size](https://img.shields.io/github/repo-size/PanIntegralus/FoodSk)
+A resource pack that adds more food to Minecraft.
 
 ## Requirements
 - [Spigot 1.15+](https://www.spigotmc.org)
