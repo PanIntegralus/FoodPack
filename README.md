@@ -2,4 +2,4 @@
 Skript plugin that adds more food to your Spigot server.
 
 # ⚠ WARNING ⚠
-## YOU ARE ON THE DEVELOPMENT BRANCH. RELEASES HERE ARE UNSTABLE. [STABLE BRANCH](https://github.com/PanIntegralus/FoodSk)
+## YOU ARE ON THE DEVELOPMENT BRANCH. [MASTER BRANCH](https://github.com/PanIntegralus/FoodSk)
