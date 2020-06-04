@@ -16,5 +16,13 @@ A resource pack that adds more food to Minecraft.
 | 1.16 (snapshots) | ✔ |
 
 # FAQ
+- [Can I download the resource pack?](can-i-download-the-resource-pack)
+- [How can I suggest food items?](how-can-i-suggest-food-items)
 ## Can I download the resource pack?
-- You can't download the resource pack right now because it's in development. I'll post a release once I have some work done.
+You can't download the resource pack right now because it's in development. I'll post a release once I have some work done.
+
+## How can I suggest food items?
+You can open an issue here with the following template:
+- *Food item name:*
+- *Food item base:*
+- *Food item image (optional):*
