@@ -1,11 +1,17 @@
 # FoodPack 🍕 ![GitHub last commit](https://img.shields.io/github/last-commit/PanIntegralus/FoodSk) ![GitHub repo size](https://img.shields.io/github/repo-size/PanIntegralus/FoodSk)
 A resource pack that adds more food to Minecraft.
 
-## Requirements
-- [Spigot 1.15+](https://www.spigotmc.org)
-- [Skript](https://docs.skunity.com/downloads)
-- [SkQuery](https://www.spigotmc.org/resources/skquery-1-9-1-15.36631/)
-- [SkBee](https://www.spigotmc.org/resources/skbee-skript-addon.75839/)
+| Versions supported | |
+| --------------------- |
+| 1.8 | ❌ |
+| 1.9 | ❌ |
+| 1.10 | ❌ |
+| 1.11 | ❌ |
+| 1.12 | ❌ |
+| 1.13 | ❌ |
+| 1.14 | ❌ |
+| 1.15 | ✔ |
+| 1.16 (snapshots) | ✔ |
 
 ## TODO
 - Food textures
