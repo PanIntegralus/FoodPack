@@ -2,7 +2,7 @@
 Skript plugin that adds more food to your Spigot server.
 
 ## Requirements
-- Spigot 1.8.9+
+- Spigot 1.8+
 - Skript
 - SkQuery
 
