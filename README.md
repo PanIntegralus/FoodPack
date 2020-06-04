@@ -4,6 +4,7 @@ A resource pack that adds more food to Minecraft.
 
 | Version | Supported? |
 | ------- | ---------- |
+| 1.7 | ❌ |
 | 1.8 | ❌ |
 | 1.9 | ❌ |
 | 1.10 | ❌ |
