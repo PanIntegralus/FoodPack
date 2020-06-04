@@ -14,6 +14,6 @@ A resource pack that adds more food to Minecraft.
 | 1.15 | ✔ |
 | 1.16 (snapshots) | ✔ |
 
-## FAQ
-# Can I download the resource pack?
+# FAQ
+## Can I download the resource pack?
 - You can't download the resource pack right now because it's in development. I'll post a release once I have some work done.
