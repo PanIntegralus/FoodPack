@@ -35,7 +35,7 @@ Here is a table of the versions that this resource pack supports **(Only Java Ed
 You can't download the resource pack right now because it's in development. I'll post a release once I have some work done.
 
 ## How can I suggest food items?
-You can open an issue [here](https://github.com/PanIntegralus/FoodPack/issues/new/choose) with the following template:
+You can open an issue [here](https://github.com/PanIntegralus/FoodPack/issues/new?title=Food%20suggestion) with the following template:
 - *Food item name:*
 - *Food item base:*
 - *Food item image (optional):*
