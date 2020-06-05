@@ -5,6 +5,7 @@
 
 ### Contents
 - [Versions supported](#versions-supported)
+- [Planned features](#planned-features)
 - [FAQ](#faq)
 
 
