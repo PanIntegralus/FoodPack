@@ -2,6 +2,7 @@
 A resource pack that adds more food to Minecraft.
 
 - [Versions supported](#versions-supported)
+- [FAQ](##faq)
 
 
 ## Versions supported
