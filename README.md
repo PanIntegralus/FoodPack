@@ -9,7 +9,7 @@
 - [FAQ](#faq)
 
 ## Features
-- Optional plugin to support food actions _(crafting, drinks, etc.)_.
+- Optional plugin to give full support to food items _(crafting, drinks, etc.)_.
 - 50+ food items.
 
 ## Versions supported
