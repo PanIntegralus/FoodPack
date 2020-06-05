@@ -3,6 +3,7 @@ A resource pack that adds more food to Minecraft.
 
 ![teaser](https://github.com/PanIntegralus/FoodPack/raw/master/teaser.png)
 
+### Contents
 - [Versions supported](#versions-supported)
 - [FAQ](#faq)
 
