@@ -4,10 +4,13 @@
 ![teaser](https://github.com/PanIntegralus/FoodPack/raw/master/teaser.png)
 
 ### Contents
-- [Versions supported](#versions-supported)
 - [Features](#features)
+- [Versions supported](#versions-supported)
 - [FAQ](#faq)
 
+## Features
+- Optional plugin to support food actions _(crafting, drinks, etc.)_.
+- 50+ food items.
 
 ## Versions supported
 Here is a table of the versions that this resource pack supports **(Only Java Edition)**:
@@ -24,10 +27,6 @@ Here is a table of the versions that this resource pack supports **(Only Java Ed
 | 1.14 | ❌ |
 | 1.15 | ✔ |
 | 1.16 (snapshots) | ✔ |
-
-## Features
-- Optional plugin to support food actions _(crafting, drinks, etc.)_.
-- 50+ food items.
 
 # FAQ
 - [Can I download the resource pack?](#can-i-download-the-resource-pack)
