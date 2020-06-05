@@ -22,7 +22,7 @@ A resource pack that adds more food to Minecraft.
 You can't download the resource pack right now because it's in development. I'll post a release once I have some work done.
 
 ## How can I suggest food items?
-You can open an issue here with the following template:
+You can open an issue [here](issues) with the following template:
 - *Food item name:*
 - *Food item base:*
 - *Food item image (optional):*
