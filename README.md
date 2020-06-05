@@ -5,7 +5,7 @@
 
 ### Contents
 - [Versions supported](#versions-supported)
-- [Planned features](#planned-features)
+- [Features](#features)
 - [FAQ](#faq)
 
 
@@ -24,6 +24,10 @@ Here is a table of the versions that this resource pack supports **(Only Java Ed
 | 1.14 | ❌ |
 | 1.15 | ✔ |
 | 1.16 (snapshots) | ✔ |
+
+## Features
+- Optional plugin to support food actions _(crafting, drinks, etc.)_.
+- 50+ food items.
 
 # FAQ
 - [Can I download the resource pack?](#can-i-download-the-resource-pack)
