@@ -25,7 +25,7 @@ Here is a table of the versions that this resource pack supports **(Only Java Ed
 - [Can I download the resource pack?](#can-i-download-the-resource-pack)
 - [How can I suggest food items?](#how-can-i-suggest-food-items)
 - [Will this resource pack be available for Bedrock Edition?](#will-this-resource-pack-be-available-for-bedrock-edition)
-- [Why does the food included in this resource pack have a different name?](why-does-the-food-included-in-this-resource-pack-have-a-different-name)
+- [Why does the food included in this resource pack have a different name?](#why-does-the-food-included-in-this-resource-pack-have-a-different-name)
 
 ## Can I download the resource pack?
 You can't download the resource pack right now because it's in development. I'll post a release once I have some work done.
