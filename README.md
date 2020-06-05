@@ -1,5 +1,5 @@
 # FoodPack 🍕 ![GitHub last commit](https://img.shields.io/github/last-commit/PanIntegralus/FoodSk) ![GitHub repo size](https://img.shields.io/github/repo-size/PanIntegralus/FoodSk)
-###A resource pack that adds more food to Minecraft.
+### A resource pack that adds more food to Minecraft.
 
 ![teaser](https://github.com/PanIntegralus/FoodPack/raw/master/teaser.png)
 
