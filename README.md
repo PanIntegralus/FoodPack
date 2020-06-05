@@ -48,7 +48,7 @@ You can open an issue [here](https://github.com/PanIntegralus/FoodPack/issues/ne
 I hope so. Bedrock Edition resource pack system is somewhat different to Java Edition one, but I'll try my best to make this happen.
 
 ## Why does the food included in this resource pack have a different name?
-The resource pack is using a trick to change the texture of existing items on the game to another ones. Only if you change your game's language to "English (US)" you will see the changed names.
+The resource pack is using custom model data tags to change the texture of some base items. This feature is unable to change the names of the items without replacing the original ones. However, there's a planned plugin that will support this feature.
 
 ## When will the resource pack be available to download?
 I plan to release a testing version as soon as I have a decent number of foods included.
