@@ -12,7 +12,7 @@
 
 ## Features
 - Optional plugin to give full support to food items _(crafting, drinks, etc.)_.
-- 50+ food items.
+- 50+ food items in progress.
 
 ## Versions supported
 Here is a table of the versions that this resource pack supports **(Only Java Edition)**:
